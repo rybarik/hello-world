@@ -3,3 +3,6 @@
 ################################################################################
 
 /ConsoleApp_StandardHelloWorld/.vs/ConsoleApp_StandardHelloWorld/v15
+/ConsoleApp_StandardHelloWorld/obj
+/.vs
+/ConsoleApp_StandardHelloWorld/bin/Debug
