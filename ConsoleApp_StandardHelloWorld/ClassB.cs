@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp_dHelloWorld_Standar
+namespace ConsoleApp_HelloWorld_Standard
 {
     class ClassB
     {
@@ -13,6 +13,7 @@ namespace ConsoleApp_dHelloWorld_Standar
 
         }
 
+        public int cislo = 0;
 
         public string DefaultString
         {

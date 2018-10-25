@@ -14,6 +14,7 @@ namespace ConsoleApp_HelloWorld_Standard
             Console.WriteLine();
             //Console.WriteLine("Press any key to exit...");
             Console.Read();
+            
         }
     }
 }
